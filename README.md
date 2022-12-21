@@ -26,4 +26,4 @@ streamlit run app.py
 streamlit run 파일명
 
 
-## 크롤링한 이미지 파일 폴더도 같이 올릴려고 했으나 Git Bash 오류 때문에 올리지 못했습니다..
+## 크롤링한 이미지 파일 폴더도 같이 올릴려고 했으나 Git Bash 오류 때문에 올리지 못했습니다
